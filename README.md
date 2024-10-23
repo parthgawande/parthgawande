@@ -50,9 +50,9 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 
 ### 📚 **Research Publications**
 
-- **"Video-Based Human Activity Detection"** - Presented at the 2022 IEEE International Conference. Focused on improving human activity recognition using **Machine Learning** and **real-time data processing** for CCTV monitoring for anomalous human activity detection
-- **"Climate Change: Preliminary analysis and prediction using global temperature data."** - Published in the American Journal of Electronics & Communication in 2022. Explored **machine learning techniques** to analyze environmental data and monitor air quality.
-- **"A Survey Paper on Malware Detection Methods"** - Published in Vol. 5 No. 2 (2021) of the EFFLATOUNIA - Multidisciplinary Journal, which highlights various techniques used in modern malware detection. The study explores the use of AI, machine learning, deep learning, and IoT environments to enhance malware detection beyond traditional signature-based techniques.
+- **"[Video-Based Human Activity Detection](https://github.com/parthgawande/Video-Based-Human-Activity-Detection)"** - Presented at the 2022 IEEE International Conference. Focused on improving human activity recognition using **Machine Learning** and **real-time data processing** for CCTV monitoring for anomalous human activity detection
+- **"[Climate Change: Preliminary analysis and prediction using global temperature data](https://github.com/parthgawande/Climate-Change-Preliminary-analysis-and-prediction-using-global-temperature-data.)"** - Published in the American Journal of Electronics & Communication in 2022. Explored **machine learning techniques** to analyze environmental data and monitor air quality.
+- **"[A Survey Paper on Malware Detection Methods](https://github.com/parthgawande/A-Survey-Paper-on-Malware-Detection-methods)"** - Published in Vol. 5 No. 2 (2021) of the EFFLATOUNIA - Multidisciplinary Journal, which highlights various techniques used in modern malware detection. The study explores the use of AI, machine learning, deep learning, and IoT environments to enhance malware detection beyond traditional signature-based techniques.
 
 ---
 
