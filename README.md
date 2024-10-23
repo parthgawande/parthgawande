@@ -54,7 +54,7 @@ With hands-on experience in fields like smart cities, agriculture, urban plannin
 ### 📚 **Research Publications**
 
 - **"Video-Based Human Activity Detection"** - Presented at the 2022 IEEE International Conference. Focused on improving human activity recognition using **Machine Learning** and **real-time data processing** for CCTV monitoring.
-- **"Climate Change: Preliminary analysis and prediction using global temperature data."** - Published in the American Journal of Electronics & Communication in 2022. Explored **machine learning techniques** to analyze environmental data and monitor air quality&#8203;:contentReference[oaicite:0]{index=0}.
+- **"Climate Change: Preliminary analysis and prediction using global temperature data."** - Published in the American Journal of Electronics & Communication in 2022. Explored **machine learning techniques** to analyze environmental data and monitor air quality.
 
 ---
 
