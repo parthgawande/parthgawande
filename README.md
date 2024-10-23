@@ -53,39 +53,36 @@ With hands-on experience in fields like smart cities, agriculture, urban plannin
 
 ### 📚 **Research Publications**
 
-- **"Video-Based Human Activity Detection"** - Presented at the 2022 IEEE International Conference. Focused on improving human activity recognition using **Machine Learning** and **real-time data processing** for CCTV monitoring.
+- **"Video-Based Human Activity Detection"** - Presented at the 2022 IEEE International Conference. Focused on improving human activity recognition using **Machine Learning** and **real-time data processing** for CCTV monitoring for anomalous human activity detection
 - **"Climate Change: Preliminary analysis and prediction using global temperature data."** - Published in the American Journal of Electronics & Communication in 2022. Explored **machine learning techniques** to analyze environmental data and monitor air quality.
+- **"A Survey Paper on Malware Detection Methods"** - Published in Vol. 5 No. 2 (2021) of the EFFLATOUNIA - Multidisciplinary Journal, which highlights various techniques used in modern malware detection. The study explores the use of AI, machine learning, deep learning, and IoT environments to enhance malware detection beyond traditional signature-based techniques.
 
 ---
 
 ### 🎓 **Education**
 
 - **Master of Science in Information Technology and Analytics** - Rochester Institute of Technology (January 2023 - August 2025)  
-  Coursework: Database Design, Non-Relational Data Management, Visual Analytics, Data Warehousing, Information Retrieval, and Text Mining  
+  Coursework: Database Design and Implementation, Non-Relational Database Management, Visual Analytics, Foundation of Data Science and Analytics, Data Warehousing, Information Retrieval and Text Mining, Time Series Analysis and Forecasting, Data-Driven Knowledge Discovery. 
   CGPA: 3.8/4.0
 - **Bachelor of Technology in Computer Science and Engineering** - MIT World Peace University (July 2018 - July 2022)  
   CGPA: 9.27/10.0
 
 ---
 
-### 💻 **Skills**
+# 🛠️ Technologies and Skills
 
-#### **Languages**:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+## Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### **Tools & Technologies**:
-- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-- ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-- ![SAS](https://img.shields.io/badge/SAS-0052CC?style=for-the-badge&logo=sas&logoColor=white)
+## Databases
+![MS Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=nosql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4J-4581CC?style=for-the-badge&logo=neo4j&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-0052CC?style=for-the-badge&logo=sas&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-redshift&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+## Python Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![RegEx](https://img.shields.io/badge/RegEx-003B57?style=for-the-badge&logo=regex&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2E78D7?style=for-the-badge&logo=seaborn&logoColor=white)
+
+## Tools
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Microsoft Suite](https://img.shields.io/badge/Microsoft%20Suite-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-3D6E18?style=for-the-badge&logo=qgis&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white) ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=for-the-badge&logo=amazonsagemaker&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
 
 ---
 
