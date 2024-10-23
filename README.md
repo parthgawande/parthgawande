@@ -2,13 +2,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthgawande)](https://www.linkedin.com/in/parthgawande) 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/parthgawande)](https://github.com/parthgawande) 
-[![Website](https://img.shields.io/badge/Portfolio-orange?style=flat-square&logo=firefox&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 
 ---
 
 ## 🌟 Welcome to My GitHub Profile!
 
-### 📝 ** Discover My Journey and Contributions to the Community**
+### 📝 Discover My Journey and Contributions to the Community
 Hello, I'm Parth Gawande, a passionate **Data Analyst** and **Deep Learning Enthusiast**, pursuing my **Master of Science in Information Technology and Analytics** at **Rochester Institute of Technology (RIT)**. My academic journey and professional experience have equipped me with a strong foundation in **Data Analytics**, **Machine Learning**, and **Deep Learning**. 
 
 With hands-on experience in fields like smart cities, agriculture, urban planning, and emotion detection in social media, I focus on transforming data into actionable insights. I love tackling complex problems, optimizing workflows, and contributing to data-driven innovation.
