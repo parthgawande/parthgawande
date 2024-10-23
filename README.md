@@ -43,7 +43,7 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 #### Multimodal Emotion Recognition in Social Media Using LLMs
 - Achieved 92% accuracy in emotion detection by combining **Large Language Models (LLMs)** with computer vision algorithms across 10k social media posts.
 
-#### [Detection of Dyslexia Based on Eye Movements]((https://github.com/parthgawande/Detection-of-Dyslexia-Based-on-eye-movements)
+#### [Detection of Dyslexia Based on Eye Movements](https://github.com/parthgawande/Detection-of-Dyslexia-based-on-eye-movements)
 - Led a project using machine learning to analyze over 47 eye movement patterns, achieving 91% accuracy in dyslexia detection.
 
 ---
