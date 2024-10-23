@@ -38,7 +38,7 @@ With hands-on experience in fields like smart cities, agriculture, urban plannin
 
 ### 🏆 **Featured Projects**
 
-#### [GeoEnvision: Satellite Image Enhancement and Topography Detection](https://github.com/parthgawande/GeoEnvision)
+#### GeoEnvision: Satellite Image Enhancement and Topography Detection
 - Enhanced satellite imagery by 24% using **Deep Super-Resolution** and **YOLOv3** for object detection, achieving a mean average precision (mAP) of 89.6%.
 - Processed over 40,000 **Sentinel-2** and **Landsat-8** images, leveraging advanced techniques like **PSNR** and **SSIM** for performance evaluation.
 
