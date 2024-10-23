@@ -18,7 +18,6 @@ With hands-on experience in fields like smart cities, agriculture, urban plannin
 ### 🚀 **What I'm Passionate About**
 - **Data Analytics**: Utilizing statistical methods, time series analysis, and clustering to uncover insights from large datasets.
 - **Deep Learning**: Building sophisticated models for tasks like **image enhancement**, **sentiment analysis**, and **object detection**.
-- **Urban Planning & Smart Cities**: Leveraging data to improve urban infrastructure and optimize resource allocation.
 - **Research in Machine Learning**: Developing AI-driven models for social good, such as improving crop yield, detecting dyslexia, and understanding human activity through CCTV monitoring.
 
 ---
