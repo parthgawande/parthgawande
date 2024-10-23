@@ -8,7 +8,7 @@
 
 ## 🌟 Welcome to My GitHub Profile!
 
-### 📝 **Introduction for Recruiters**
+### 📝 ** Discover My Journey and Contributions to the Community**
 Hello, I'm Parth Gawande, a passionate **Data Analyst** and **Deep Learning Enthusiast**, pursuing my **Master of Science in Information Technology and Analytics** at **Rochester Institute of Technology (RIT)**. My academic journey and professional experience have equipped me with a strong foundation in **Data Analytics**, **Machine Learning**, and **Deep Learning**. 
 
 With hands-on experience in fields like smart cities, agriculture, urban planning, and emotion detection in social media, I focus on transforming data into actionable insights. I love tackling complex problems, optimizing workflows, and contributing to data-driven innovation.
