@@ -24,13 +24,22 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 ### 💼 **Work Experience**
 
 #### **Data Analyst | StandardWings Technologies Pvt. Ltd. (July 2022 - Dec 2022)**
-- Optimized garbage collection operations using GPS and IoT sensor data, reducing response times by 15%.
-- Developed **Tableau** and **Power BI** dashboards to track real-time metrics, improving decision-making by 25%.
-- Applied **time-series analysis** and **clustering techniques** to optimize vehicle usage, reducing fuel consumption by 20%.
+● Conducted analysis of garbage collection operations for Nashik Municipal Corporation using GPS and IoT data integrated on AWS: Performed an in-depth analysis of GPS and IoT sensor data for garbage collection vehicles to identify and address inefficiencies in routing. Utilized AWS cloud services to centralize and process data, enabling advanced insights into vehicle routes. This analysis helped refine routes and operational procedures, achieving a 23% reduction in response times, which improved the overall efficiency of waste collection.
+
+● Designed interactive dashboards in Tableau and Power BI connected to AWS Redshift for real-time performance monitoring: Developed interactive dashboards in Tableau and Power BI linked directly to AWS Redshift, which displayed key operational metrics for real-time tracking of garbage collection vehicle performance. Incorporated machine learning forecasts into the dashboards, enabling predictive insights that allowed management to address potential delays proactively. This approach led to a 14% reduction in decision-making time, enhancing data accessibility and enabling timely responses to operational needs.
+
+● Applied time-series analysis and clustering techniques on Azure Databricks to identify patterns in vehicle usage: Leveraged Azure Databricks to conduct time-series and clustering analyses on vehicle usage data, stored within cloud infrastructure. By identifying usage patterns and inefficiencies, the analysis facilitated optimized scheduling and resource allocation across the fleet. This data-driven approach on the cloud supported better fuel management, improved asset utilization, and enhanced overall service coverage.
+
+● Collaborated with cross-functional teams to consolidate GPS, RFID data, and municipal reports on Google BigQuery: Worked closely with data engineers, municipal staff, and project stakeholders to integrate data from GPS-enabled and RFID-tagged vehicles, as well as from municipal reporting systems, into a unified dataset on Google BigQuery. Ensured the accuracy and integrity of the data through rigorous validation, which supported data-driven decision-making for waste management strategies and improved inter-departmental collaboration.
 
 #### **Data Analytics Intern | The Sparks Foundation (Dec 2021 - May 2022)**
-- Integrated **CNN** and **IoT sensors** to boost crop yield by 12% through real-time analytics.
-- Achieved 91.6% accuracy in crop disease detection using **Random Forest** and **Support Vector Machines (SVM)** models.
+● Developed AI-powered candidate screening: Built a CNN model to automate initial candidate screening, integrated with HR data on AWS to streamline selection. This tool efficiently shortlisted candidates, significantly reducing manual effort and improving recruitment efficiency by accelerating the evaluation process.
+
+● Analyzed recruitment data for process optimization: Used Python and SQL to examine hiring trends and patterns within AWS-hosted data, enabling insights that helped reduce average time-to-hire by 10%. This analysis supported more targeted recruitment strategies aligned with hiring peaks and job requirements.
+
+● Automated data processing through ETL pipelines: Deployed ETL pipelines on AWS Lambda to automate the continuous transfer of recruitment data from multiple sources, improving data accuracy by 11% and reducing manual data entry. The streamlined data flow allowed HR to access up-to-date information for quicker decision-making.
+
+● Designed Power BI dashboards for real-time recruitment tracking: Created interactive dashboards linked to AWS Redshift, allowing HR to monitor recruitment stages in real time. The dashboards provided a centralized view for tracking applicant progress and enhanced collaboration through shared, cloud-based reporting.
 
 ---
 
