@@ -45,15 +45,33 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 
 ### 🏆 **Featured Projects**
 
-#### GeoEnvision: Satellite Image Enhancement and Topography Detection
-- Enhanced satellite imagery by 24% using **Deep Super-Resolution** and **YOLOv3** for object detection, achieving a mean average precision (mAP) of 89.6%.
-- Processed over 40,000 **Sentinel-2** and **Landsat-8** images, leveraging advanced techniques like **PSNR** and **SSIM** for performance evaluation.
+#### StyleSync: AI-Driven Personalized Outfit and Shopping Assistant
+- Developing an AI-powered fashion assistant using Vision Transformers and Siamese Networks for detailed garment
+ analysis, achieving 92% accuracy in outfit compatibility and personalized recommendations.
+- Building a hybrid recommendation system combining Graph Neural Networks and Transfer Learning, integrating
+ real-time retail data to enhance outfit pairing and improve wardrobe utilization by 40%.
+
+####  GeoEnvision: Intelligent Satellite Imaging for Urban Planning
+- Established a deep learning-based super-resolution framework using EDSR to enhance 50K+ satellite images, improving
+ clarity for infrastructure planning and environmental monitoring with geometric corrections and noise reduction.
+- Implemented a YOLOv3-based object detection system to classify urban landscapes, successfully automating analysis
+ processes that reduced urban planning time by 40% and improved disaster response accuracy for 5 major municipalities.
+
+####  Analyzing GASTech Building Operations Data
+-  Conducted anomaly detection on building operations data using Python, SQL, and Power BI, analyzing 20K+ sensor
+ readings to identify security risks and inefficiencies in energy consumption while improving operational transparency..
+-  Customized interactive dashboards in Power BI to visualize 50+ key operational patterns, enabling data-driven
+ decision-making for facility management while optimizing data pipelines with Apache Spark for faster anomaly detection
 
 #### Smart City Data Warehouse Architecture
-- Engineered a centralized data warehouse integrating data from **IoT sensors** and traffic systems for urban analytics, improving query performance by 50%.
+- Engineered a centralized data warehouse for smart city initiatives, integrating over 10k records from IoT sensors, traffic management systems, and environmental monitoring, facilitating real-time analysis and insights for urban planning.
+- Utilized Apache Kafka for real-time data ingestion and AWS Redshift for data storage, achieving a 50% improvement in query performance and enabling predictive analytics for city resource allocation.
 
-#### Multimodal Emotion Recognition in Social Media Using LLMs
-- Achieved 92% accuracy in emotion detection by combining **Large Language Models (LLMs)** with computer vision algorithms across 10k social media posts.
+#### DemandCast: Time Series Forecasting for Sales and Revenue Optimization
+- Architected a sales forecasting model using LSTM, ARIMA, and Prophet to predict revenue trends and demand
+ fluctuations, analyzing 500k+ transaction records to optimize inventory planning and supply chain efficiency
+- Engineered predictive features including seasonality indices, lag variables, and promotional impact factors, improving
+ forecast accuracy by 30%, integrating insights into Power BI dashboards for real-time business decision-making
 
 #### [Detection of Dyslexia Based on Eye Movements](https://github.com/parthgawande/Detection-of-Dyslexia-based-on-eye-movements)
 - Led a project using machine learning to analyze over 47 eye movement patterns, achieving 91% accuracy in dyslexia detection.
@@ -72,7 +90,7 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 
 - **Master of Science in Information Technology and Analytics** - Rochester Institute of Technology (January 2023 - August 2025)  
   Coursework: Database Design and Implementation, Non-Relational Database Management, Visual Analytics, Foundation of Data Science and Analytics, Data Warehousing, Information Retrieval and Text Mining, Time Series Analysis and Forecasting, Data-Driven Knowledge Discovery. 
-  CGPA: 3.8/4.0
+  CGPA: 3.9/4.0
 - **Bachelor of Technology in Computer Science and Engineering** - MIT World Peace University (July 2018 - July 2022)  
   CGPA: 9.27/10.0
 
