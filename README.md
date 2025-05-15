@@ -24,7 +24,7 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 ### 💼 **Work Experience**
 
 #### **🏢 Graduate Teaching Assistant | Rochester Institute of Technology (Jan 2024 - May 2025)**
-<h3>● Mentored and guided over 150 undergraduate students across three academic semesters, providing clear instruction in linear equations, inequalities, functions, exponential, and logarithmic models to build foundational quantitative reasoning skills.
+<h5>● Mentored and guided over 150 undergraduate students across three academic semesters, providing clear instruction in linear equations, inequalities, functions, exponential, and logarithmic models to build foundational quantitative reasoning skills.
 
 ● Designed and led structured tutoring sessions and exam preparation workshops that were tailored to common student pain points, directly contributing to a 20% increase in overall class exam performance.
 
@@ -35,7 +35,7 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 ● Partnered with faculty and fellow teaching assistants to review course materials, improve lesson delivery strategies, and continuously optimize the student learning experience.
 
 ● Strengthened my ability to explain complex, technical concepts in an accessible way, a critical skill I now apply in business settings when translating data insights for non-technical stakeholders.
-
+</h5>
 #### **🏢 Data Analyst | StandardWings Technologies Pvt. Ltd. (July 2022 - Dec 2022)**
 ● Led data extraction, transformation, and cleansing processes for high-volume GPS and RFID vehicle datasets from over 120 sources, using SQL, AWS Redshift, and Python to build reliable, accurate datasets for operational reporting and analysis.
 
