@@ -23,7 +23,7 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 
 ### 💼 **Work Experience**
 
-#### <h4>**🏢 Graduate Teaching Assistant | Rochester Institute of Technology (Jan 2024 - May 2025)**</h4>*
+#### <h4>**🏢 Graduate Teaching Assistant | Rochester Institute of Technology (Jan 2024 - May 2025)***</h4>
 ● Mentored and guided over 150 undergraduate students across three academic semesters, providing clear instruction in linear equations, inequalities, functions, exponential, and logarithmic models to build foundational quantitative reasoning skills.
 
 ● Designed and led structured tutoring sessions and exam preparation workshops that were tailored to common student pain points, directly contributing to a 20% increase in overall class exam performance.
