@@ -24,22 +24,30 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 ### 💼 **Work Experience**
 
 #### **Data Analyst | StandardWings Technologies Pvt. Ltd. (July 2022 - Dec 2022)**
-● Conducted analysis of garbage collection operations for Nashik Municipal Corporation using GPS and IoT data integrated on AWS: Performed an in-depth analysis of GPS and IoT sensor data for garbage collection vehicles to identify and address inefficiencies in routing. Utilized AWS cloud services to centralize and process data, enabling advanced insights into vehicle routes. This analysis helped refine routes and operational procedures, achieving a 23% reduction in response times, which improved the overall efficiency of waste collection.
+● Led data extraction, transformation, and cleansing processes for high-volume GPS and RFID vehicle datasets from over 120 sources, using SQL, AWS Redshift, and Python to build reliable, accurate datasets for operational reporting and analysis.
 
-● Designed interactive dashboards in Tableau and Power BI connected to AWS Redshift for real-time performance monitoring: Developed interactive dashboards in Tableau and Power BI linked directly to AWS Redshift, which displayed key operational metrics for real-time tracking of garbage collection vehicle performance. Incorporated machine learning forecasts into the dashboards, enabling predictive insights that allowed management to address potential delays proactively. This approach led to a 14% reduction in decision-making time, enhancing data accessibility and enabling timely responses to operational needs.
+● Architected and automated real-time operational KPI dashboards in Power BI, AWS QuickSight, and Tableau to provide leadership teams with self-service analytics, resulting in a 30% reduction in manual report preparation time.
 
-● Applied time-series analysis and clustering techniques on Azure Databricks to identify patterns in vehicle usage: Leveraged Azure Databricks to conduct time-series and clustering analyses on vehicle usage data, stored within cloud infrastructure. By identifying usage patterns and inefficiencies, the analysis facilitated optimized scheduling and resource allocation across the fleet. This data-driven approach on the cloud supported better fuel management, improved asset utilization, and enhanced overall service coverage.
+● Developed and maintained stakeholder-specific reporting pipelines with Python and AWS SageMaker, empowering teams with ad-hoc and scheduled data-driven reports that supported faster decision-making and led to a 15% reduction in service downtime.
 
-● Collaborated with cross-functional teams to consolidate GPS, RFID data, and municipal reports on Google BigQuery: Worked closely with data engineers, municipal staff, and project stakeholders to integrate data from GPS-enabled and RFID-tagged vehicles, as well as from municipal reporting systems, into a unified dataset on Google BigQuery. Ensured the accuracy and integrity of the data through rigorous validation, which supported data-driven decision-making for waste management strategies and improved inter-departmental collaboration.
+● Applied time-series forecasting, predictive modeling, and anomaly detection techniques using AWS SageMaker and SQL to proactively identify inefficiencies in vehicle routing and maintenance cycles, increasing resource utilization by 12%.
 
-#### **Data Analytics Intern | The Sparks Foundation (Dec 2021 - May 2022)**
-● Developed AI-powered candidate screening: Built a CNN model to automate initial candidate screening, integrated with HR data on AWS to streamline selection. This tool efficiently shortlisted candidates, significantly reducing manual effort and improving recruitment efficiency by accelerating the evaluation process.
+● Collaborated cross-functionally with engineering, fleet management, and operations teams to translate raw data insights into actionable business strategies, reducing vehicle planning cycle time by 25% and improving overall process efficiency.
 
-● Analyzed recruitment data for process optimization: Used Python and SQL to examine hiring trends and patterns within AWS-hosted data, enabling insights that helped reduce average time-to-hire by 10%. This analysis supported more targeted recruitment strategies aligned with hiring peaks and job requirements.
+● Documented and standardized analytical workflows, conducted internal training sessions for business teams, and ensured long-term sustainability and usability of dashboard solutions across departments
 
-● Automated data processing through ETL pipelines: Deployed ETL pipelines on AWS Lambda to automate the continuous transfer of recruitment data from multiple sources, improving data accuracy by 11% and reducing manual data entry. The streamlined data flow allowed HR to access up-to-date information for quicker decision-making.
+#### **Data Analyst Intern | StandardWings Technologies Pvt. Ltd.(Dec 2021 - May 2022)**
+● Designed and led a major data consolidation project by aggregating over 120,000 municipal records from 10 disparate government departments to create a unified Smart Governance analytics dashboard for the Nashik Municipal Corporation.
 
-● Designed Power BI dashboards for real-time recruitment tracking: Created interactive dashboards linked to AWS Redshift, allowing HR to monitor recruitment stages in real time. The dashboards provided a centralized view for tracking applicant progress and enhanced collaboration through shared, cloud-based reporting.
+● Automated data extraction, transformation, and reporting workflows using Python, Airflow, and AWS Glue, resulting in an 80% reduction in manual reporting workload and accelerating the delivery of timely insights to decision-makers.
+
+● Developed and deployed interactive geo-visual dashboards using Power BI to map ward-level service requests, SLA compliance, and key performance metrics, which directly led to a 19% improvement in citizen issue resolution rates.
+
+● Conducted advanced clustering analysis and time-series modeling to identify recurring delays in municipal service delivery, helping stakeholders optimize resource allocation and reduce average resolution time by 19%.
+
+● Partnered closely with city leadership and 8 municipal departments to define business requirements, validate data accuracy, and deliver actionable recommendations to improve the efficiency of civic operations.
+
+● Facilitated workshops and presentations with government stakeholders to explain analytical methodologies, dashboard functionalities, and how to interpret results for better governance outcomes.
 
 ---
 
