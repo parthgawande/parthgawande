@@ -36,7 +36,7 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 
 ● Strengthened my ability to explain complex, technical concepts in an accessible way, a critical skill I now apply in business settings when translating data insights for non-technical stakeholders.
 
-#### **🏢 Data Analyst | StandardWings Technologies Pvt. Ltd. (July 2022 - Dec 2022)**
+#### <h3>**🏢 Data Analyst | StandardWings Technologies Pvt. Ltd. (July 2022 - Dec 2022)**</h3>
 ● Led data extraction, transformation, and cleansing processes for high-volume GPS and RFID vehicle datasets from over 120 sources, using SQL, AWS Redshift, and Python to build reliable, accurate datasets for operational reporting and analysis.
 
 ● Architected and automated real-time operational KPI dashboards in Power BI, AWS QuickSight, and Tableau to provide leadership teams with self-service analytics, resulting in a 30% reduction in manual report preparation time.
@@ -49,7 +49,7 @@ I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, curr
 
 ● Documented and standardized analytical workflows, conducted internal training sessions for business teams, and ensured long-term sustainability and usability of dashboard solutions across departments
 
-#### **🏢 Data Analyst Intern | StandardWings Technologies Pvt. Ltd.(Dec 2021 - May 2022)**
+#### <h3>**🏢 Data Analyst Intern | StandardWings Technologies Pvt. Ltd.(Dec 2021 - May 2022)**</h3>
 ● Designed and led a major data consolidation project by aggregating over 120,000 municipal records from 10 disparate government departments to create a unified Smart Governance analytics dashboard for the Nashik Municipal Corporation.
 
 ● Automated data extraction, transformation, and reporting workflows using Python, Airflow, and AWS Glue, resulting in an 80% reduction in manual reporting workload and accelerating the delivery of timely insights to decision-makers.
