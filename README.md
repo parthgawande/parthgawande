@@ -28,7 +28,7 @@ With experience across finance, civic governance, sales analytics, and forecasti
 
 ### 🏢 Data Analyst  
 **StandardWings Technologies Pvt. Ltd.**  
-*Jul 2022 – Jan 2023*  
+*Jan 2022 – Jan 2023*  
 - Automated 8 ETL pipelines using **AWS Glue**, **PySpark**, and **SQL** across GPS-enabled fleet data.  
 - Created 14 dynamic dashboards in **Power BI** and **QuickSight**, reducing reporting time by 30+ hours/month.  
 - Built real-time alerting systems with **Lambda**, **SNS**, and **CloudWatch** for anomaly tracking.  
@@ -38,7 +38,7 @@ With experience across finance, civic governance, sales analytics, and forecasti
 
 ### 🧪 Data Analyst Intern  
 **StandardWings Technologies Pvt. Ltd.**  
-*May 2021 – May 2022*  
+*May 2021 – Dec 2021*  
 - Integrated citywide civic datasets into a **Snowflake** warehouse using **Airflow** and **AWS Glue**.  
 - Applied spatial analytics and GIS overlays to map high-incident areas, improving resource allocation.  
 - Automated 20 weekly summary reports with **Python** and **SES**, enhancing communication with city officials.  
