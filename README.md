@@ -64,7 +64,7 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" title="Google Cloud"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" title="Azure"/>
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" height="36" title="Snowflake"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fdatabricks-logo%2F&psig=AOvVaw3-8p-Y3tFpm6jKoW7zYKSK&ust=1754868395630000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMirnK3w_o4DFQAAAAAdAAAAABAE" height="36" title="Databricks"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="36" title="Databricks"/>
 </p>
 
 ### AWS Services
