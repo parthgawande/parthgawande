@@ -1,86 +1,170 @@
 # 👋 Hi, I'm Parth Gawande
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthgawande)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/parthgawande)
-[![Resume](https://img.shields.io/badge/-Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/parthgawande/parthgawande/raw/main/Resume.pdf)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=internetexplorer&logoColor=white)](https://parthgawande.github.io/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthgawande)
+[![GitHub](https://img.shields.io/badge/GitHub-111?logo=github&logoColor=white)](https://github.com/parthgawande)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=safari&logoColor=white)](https://parthgawande.github.io/Portfolio)
+[![Resume](https://img.shields.io/badge/Resume-PDF-E53935?logo=adobeacrobatreader&logoColor=white)](https://github.com/parthgawande/parthgawande/raw/main/Resume.pdf)
+[![Location](https://img.shields.io/badge/San%20Francisco-CA-ff6900?logo=googlemaps&logoColor=white)](#)
 
 ---
 
-## 🎯 About Me  
+## 📌 About Me
 
-I am a **Data Analyst & Data Engineer** with a Master’s in Information Technology and Analytics from **Rochester Institute of Technology** (GPA: 3.9). I combine strong academic expertise with hands-on industry experience to design, build, and optimize **end-to-end data solutions** that deliver measurable business impact.  
+I’m a data professional with an M.S. in **Information Technology & Analytics (GPA 3.9)** from RIT, building end‑to‑end, cloud‑native data solutions across analytics and engineering. I’ve delivered measurable impact by:
+- Cutting **$600K** in annual ops cost via route optimization  
+- Accelerating **SLA reporting by 60%** with streaming pipelines  
+- Reducing **cloud compute by $40K/month** with query/storage tuning  
+- Improving **anomaly resolution by 22–66%** through proactive monitoring  
 
-💼 **Experience:** 2+ years across **healthcare, transportation, telecom, logistics, retail, and public sector** projects.  
-📈 **Impact:**  
-- Reduced operational costs by **$600K/year** via route optimization analytics.  
-- Improved SLA-bound reporting timelines by **60%** with automated pipelines.  
-- Cut monthly cloud costs by **$40K** through storage/query optimization.  
-- Enhanced anomaly resolution by **22–66%** with proactive monitoring systems.  
-
----
-
-## 🛠 Skills  
-
-**Languages:** Python, SQL, R, Java, C++, PySpark  
-**BI & Visualization:** Power BI, Tableau, Looker Studio, QuickSight, D3.js  
-**Data Engineering:** Apache Spark, Apache Kafka, Airflow, AWS Glue, dbt, Docker, Kubernetes  
-**Databases:** Snowflake, Amazon Redshift, BigQuery, PostgreSQL, MongoDB  
-**Cloud Platforms:** AWS, GCP, Azure, Databricks  
-**ML & AI:** Scikit-learn, TensorFlow, PyTorch, Keras, NLP, Generative AI  
-**Web Technologies:** HTML5, CSS3, JavaScript, React, Node.js  
-**Version Control & Deployment:** Git, CI/CD  
+I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Airflow/AWS Glue/Terraform/CI‑CD**, and BI with **Tableau/Power BI/QuickSight/Looker Studio**—turning raw data into reliable, decision‑grade insights.
 
 ---
 
-## 📚 Education  
+## 🧠 Skills (with Logos)
 
-**Master of Science – Information Technology and Analytics**  
-*Rochester Institute of Technology (Jan 2023 – May 2025)* – GPA: **3.9/4.0**  
-Key Coursework: Data Warehousing, Visual Analytics, NoSQL, Time Series Forecasting, Text Mining, Machine Learning
+### Programming & Analytics
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" title="SQL"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="36" title="R"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" title="Java"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" title="C++"/> 
+<img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" height="36" title="PySpark"/>
+</p>
 
-**Bachelor of Technology – Computer Science and Engineering**  
-*MIT World Peace University (Jul 2018 – Jul 2022)* – GPA: **9.27/10.0**  
-Key Coursework: DSA, DBMS, AI/ML, Cloud Computing, Cybersecurity
+### Business Intelligence & Visualization
+<p>
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="36" title="Tableau"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" height="36" title="Power BI"/>
+<img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png" height="36" title="Looker Studio"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*KL4vQyb9MEI9y2eyb4WEGQ.png" height="36" title="Amazon QuickSight"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="36" title="D3.js"/>
+</p>
+
+### Reporting & Data Tools
+<p>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="36" title="Excel"/>
+<img src="https://img.icons8.com/color/48/google-sheets.png" height="36" title="Google Sheets"/>
+<img src="https://avatars.githubusercontent.com/u/36382177?s=200&v=4" height="36" title="dbt"/>
+</p>
+
+### Data Engineering & Automation
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="36" title="Apache Spark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="36" title="Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="36" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" title="MongoDB"/>
+</p>
+
+### Cloud & Platforms
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" title="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" title="Azure"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" height="36" title="Snowflake"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="36" title="Databricks"/>
+</p>
+
+### AWS Services
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?logo=amazonaws&logoColor=white)
+
+### Machine Learning & Data Science
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="36" title="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" title="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="36" title="Keras"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="36" title="Kaggle"/>
+</p>
+
+### Web, Version Control & CI/CD
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white" height="22" title="CI/CD"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects  
+## 💼 Experience
 
-| Project Name | Short Description | Highlights |
-|--------------|------------------|------------|
-| **HealthLens: Monitoring Healthcare Performance and Trends** | Python-based EDA + Power BI dashboards analyzing hospital billing, prescriptions, and diagnoses to track KPIs and detect inefficiencies. | ✅ Enabled hospital admins to monitor operations in real-time; improved anomaly detection accuracy by 30%. |
-| **CareAllocate: Healthcare Resource Allocation** | Optimization model for allocating beds, staff, and ventilators across regions using PuLP & Streamlit. | ✅ Reduced resource allocation decision time by 40% during simulations; increased planning transparency. |
-| **ForecastPro: Scalable Sales Forecasting via MLOps** | Automated sales forecasting pipeline with Prophet + Scikit-learn, integrated with MLflow & CI/CD. | ✅ Improved forecast accuracy by 22%; fully automated weekly demand predictions. |
-| **AcuMedica: Medical Performance Dashboard** | Power BI dashboard visualizing patient outcomes, diagnosis trends, and treatment metrics. | ✅ Provided actionable insights for operational planning and quality improvement. |
-| **InfoSnip: Tailored News Summarization** | NLP-based tool summarizing long-form news articles for faster consumption. | ✅ Reduced reading time by 60% without losing key context. |
-| **Dyslexia Detection Using Machine Learning** | Behavioral/cognitive data + ML models for early dyslexia diagnosis. | ✅ Achieved 91% detection accuracy; supports early intervention strategies. |
-| **GeoEnvision: Satellite Image Enhancement & Topography Detection** | Deep learning for satellite image classification, segmentation, and detection. | ✅ Improved urban planning model accuracy by 35%. |
-| **Black Gold Horizon: Projecting America's Oil Future** | R-based time series forecasting of US crude oil production. | ✅ Delivered regional + national forecasts for policy/industry use. |
-| **YouTrendify: YouTube Video Insights Engine** | ML tool predicting YouTube video performance metrics. | ✅ Increased subscriber prediction accuracy by 28% via optimized regression models. |
-| **Analyzing GASTech Building Operations Data** | IoT + HVAC + environmental data analysis to detect anomalies. | ✅ Identified inefficiencies reducing energy waste by 15%. |
-| **StyleSync: AI-Driven Personalized Outfit & Shopping Assistant** | ResNet-50 + MCN model for outfit compatibility scoring and recommendations via SerpAPI. | ✅ Delivered 90%+ match accuracy and real-time shopping suggestions. |
-| **Data Analysis on Airbnb in New York City** | Power BI dashboard on NYC Airbnb listings analyzing price, availability, and occupancy trends. | ✅ Provided actionable rental pricing insights by borough. |
-| **F1Track – Real-Time Performance Analytics** | Databricks + Delta Lake + Power BI for Formula 1 race data processing and live analytics. | ✅ Reduced lap time analysis delay to under 5 seconds. |
-| **Churnlytics: Telecom Customer Retention Risk Modeling** | Predictive ML models for churn risk and monthly charge forecasting. | ✅ Improved churn prediction accuracy by 18%. |
+**Graduate Teaching Assistant — Rochester Institute of Technology** *(Jan 2024 – May 2025)*  
+- Delivered **1,000+ instructional hours** to 200+ students in DB systems & SQL; average proficiency up **20%**  
+- Redesigned **15** SQL assignments (real datasets), boosting retention **25%** and lab participation **30%**  
+- Automated grading, cutting turnaround **40%**; 60+ 1:1 sessions improved individual scores **15%**
+
+**Data Analyst — StandardWings Technologies Pvt. Ltd.** *(Jan 2022 – Jan 2023)*  
+- Analyzed **10,000+ weekly GPS logs** for 120‑vehicle fleet, saving **$600K/year** via route optimization  
+- Built **14** Tableau/QuickSight dashboards; decision speed up **25%**, redundant hours down **15%**  
+- Delay alerts via **Lambda/CloudWatch/SNS** raised SLA from **82% → 94%**; validation reduced errors **25%**
+
+**Data Analyst Intern — StandardWings Technologies Pvt. Ltd.** *(May 2021 – Dec 2021)*  
+- Centralized **10** municipal datasets in Snowflake; SLA reporting time down **70%**  
+- GIS + Spectrum analysis improved emergency response by **4.8 minutes**  
+- Automated **20+** Power BI reports; accuracy up **30%**, eliminated data lags
 
 ---
 
-## 📄 Publications  
+## 🚀 Projects
 
-- **IEEE CONIT 2022:** Video-Based Human Activity Detection – 98.88% accuracy with 3D CNN + incremental learning.  
-- **EFFLATOUNIA Journal:** Survey on Malware Detection Methods – AI/ML-based security approaches.  
-- **American Journal of Electronics & Communication (2022):** Climate Change Prediction – Global temperature forecasting using regression models.  
-- **Conference Paper:** Transfer + Incremental Learning for Anomalous Activity Detection – Evaluated on KTH & UCF101 datasets.
+| Project Name | Short Description | Project Highlights |
+|---|---|---|
+| [**HealthLens: Monitoring Healthcare Performance**](https://github.com/parthgawande/HealthLens-Monitoring-healthcare-performance-and-trends) | Python EDA + Power BI for clinical & ops KPIs | Multi‑table joins, anomaly flags, KPI tracking |
+| [**CareAllocate: Healthcare Resource Allocation**](https://github.com/parthgawande/CareAllocate) | Linear programming to optimize beds/staff/vents | Python, PuLP, Streamlit; scenario planning |
+| [**ForecastPro: Scalable Sales Forecasting (MLOps)**](https://github.com/parthgawande/ForecastPro) | Automated forecasting with CI/CD + MLflow | Prophet/Sklearn, DVC, FastAPI, Docker |
+| [**AcuMedica: Medical Performance Dashboard**](https://github.com/parthgawande/AcuMedica) | Power BI dashboard for outcomes & trends | DAX, Power Query, drill‑throughs |
+| [**InfoSnip: Tailored News Summarization**](https://github.com/parthgawande/InfoSnip) | NLP summarizer for long‑form news | Transformer models, Flask service |
+| [**Dyslexia Detection (ML)**](https://github.com/parthgawande/Dyslexia-Detection) | Behavioral feature ML for early detection | Classification pipeline, metrics |
+| [**GeoEnvision: Satellite Image Enhancement**](https://github.com/parthgawande/GeoEnvision) | DL for satellite classification/segmentation | CNN/UNet, object detection |
+| [**Black Gold Horizon**](https://github.com/parthgawande/Black-Gold-Horizon) | U.S. crude production forecasting | Time‑series in R; policy insights |
+| [**YouTrendify**](https://github.com/parthgawande/YouTrendify) | Predictive insights for YouTube KPIs | Regression + feature engineering |
+| [**StyleSync: AI Outfit Assistant**](https://github.com/parthgawande/StyleSync) | Fashion compatibility & product recs | ResNet‑50 + MCN, SerpAPI, feedback loop |
+| [**Airbnb NYC Analysis**](https://github.com/parthgawande/Airbnb-NYC-Analysis) | Interactive rental market analytics | Pricing, availability, borough trends |
+| [**F1Track Analytics**](https://github.com/parthgawande/F1Track) | Real‑time racing analytics on Databricks | Delta Lake, telemetry insights |
+| [**Churnlytics**](https://github.com/parthgawande/Churnlytics) | Telco churn risk modeling | Classification, clustering, SHAP |
+
+> _More projects on my [Portfolio](https://parthgawande.github.io/Portfolio)_
 
 ---
 
-## 📫 Let's Connect  
+## 🎓 Education
 
-📧 Email: [pg5598@rit.edu](mailto:pg5598@rit.edu)  
-🌐 Portfolio: [parthgawande.github.io/Portfolio](https://parthgawande.github.io/Portfolio)  
-💼 LinkedIn: [linkedin.com/in/parthgawande](https://www.linkedin.com/in/parthgawande)  
+**M.S., Information Technology & Analytics — RIT** *(Jan 2023 – May 2025, GPA 3.9)*  
+Coursework: Data Warehousing, Visual Analytics, NoSQL, IR & Text Mining, Time Series, ML‑based Knowledge Discovery
+
+**B.Tech, Computer Science & Engineering — MIT WPU** *(Jul 2018 – Jul 2022, GPA 9.27/10)*  
+Coursework: DSA, OOP, DBMS, OS, Networks, ML/AI, Web, Cloud, Cybersecurity
 
 ---
 
-⭐ *Thanks for visiting my GitHub! I’m open to collaborations on impactful data, analytics, and AI projects.*
+## 📚 Publications & Research
+
+- **IEEE CONIT 2022** — _Video‑Based Human Activity Detection_ — **98.88%** accuracy (3D‑CNN, KTH dataset)  
+- _Survey on Malware Detection_ — AI/ML & DL approaches for modern malware  
+- _Transfer + Incremental Learning for Anomalous Activity Detection_ — KTH & UCF101  
+- _Climate Change: Predictive Analysis_ — **AJEC (2022)**
+
+---
+
+## 📫 Contact
+
+**Email:** pg5598@rit.edu  
+**LinkedIn:** [linkedin.com/in/parthgawande](https://www.linkedin.com/in/parthgawande)  
+**Portfolio:** [parthgawande.github.io/Portfolio](https://parthgawande.github.io/Portfolio)
+
+---
+_Thanks for stopping by—happy to connect, collaborate, or chat about data!_
