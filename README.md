@@ -132,7 +132,7 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 | [**GeoEnvision: Satellite Image Enhancement**](https://github.com/parthgawande/GeoEnvision) | DL for satellite classification/segmentation | CNN/UNet, object detection |
 | [**Black Gold Horizon**](https://github.com/parthgawande/Black-Gold-Horizon-Projecting-America-s-Oil-Future) | U.S. crude production forecasting | Time‑series in R; policy insights |
 | [**YouTrendify**](https://github.com/parthgawande/YouTrendify-Youtube-Insights-Engine) | Predictive insights for YouTube KPIs | Regression + feature engineering |
-| [**StyleSync: AI Outfit Assistant**]([https://github.com/parthgawande/StyleSync](https://github.com/parthgawande/StyleSync)) | Fashion compatibility & product recs | ResNet‑50 + MCN, SerpAPI, feedback loop |
+| [**StyleSync: AI Outfit Assistant**](https://github.com/parthgawande/StyleSync) | Fashion compatibility & product recs | ResNet‑50 + MCN, SerpAPI, feedback loop |
 | [**Airbnb NYC Analysis**](https://github.com/parthgawande/New-York-City-Airbnb-Analysis) | Interactive rental market analytics | Pricing, availability, borough trends |
 | [**F1Track Analytics**](https://github.com/parthgawande/F1Track-Real-Time-Performance-Analytics-Using-Databricks) | Real‑time racing analytics on Databricks | Delta Lake, telemetry insights |
 | [**Churnlytics**](https://github.com/parthgawande/Telco-Customer-Churn-Analysis) | Telco churn risk modeling | Classification, clustering, SHAP |
