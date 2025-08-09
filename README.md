@@ -20,7 +20,7 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 
 ---
 
-## 🧠 Skills (with Logos)
+## 🧠 Skills
 
 ### Programming & Analytics
 <p>
