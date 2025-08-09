@@ -124,8 +124,8 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 | Project Name | Short Description | Project Highlights |
 |---|---|---|
 | [**HealthLens: Monitoring Healthcare Performance**](https://github.com/parthgawande/HealthLens-Monitoring-healthcare-performance-and-trends) | Python EDA + Power BI for clinical & ops KPIs | Multi‑table joins, anomaly flags, KPI tracking |
-| [**CareAllocate: Healthcare Resource Allocation**](https://github.com/parthgawande/CareAllocate) | Linear programming to optimize beds/staff/vents | Python, PuLP, Streamlit; scenario planning |
-| [**ForecastPro: Scalable Sales Forecasting (MLOps)**](https://github.com/parthgawande/ForecastPro) | Automated forecasting with CI/CD + MLflow | Prophet/Sklearn, DVC, FastAPI, Docker |
+| [**CareAllocate: Healthcare Resource Allocation**](https://github.com/parthgawande/CareAllocate-Healthcare-Resource-Allocation) | Linear programming to optimize beds/staff/vents | Python, PuLP, Streamlit; scenario planning |
+| [**ForecastPro: Scalable Sales Forecasting (MLOps)**](https://github.com/parthgawande/ForecastPro-Scalable-Sales-Forecasting-via-MLOps-) | Automated forecasting with CI/CD + MLflow | Prophet/Sklearn, DVC, FastAPI, Docker |
 | [**AcuMedica: Medical Performance Dashboard**](https://github.com/parthgawande/AcuMedica) | Power BI dashboard for outcomes & trends | DAX, Power Query, drill‑throughs |
 | [**InfoSnip: Tailored News Summarization**](https://github.com/parthgawande/InfoSnip) | NLP summarizer for long‑form news | Transformer models, Flask service |
 | [**Dyslexia Detection (ML)**](https://github.com/parthgawande/Dyslexia-Detection) | Behavioral feature ML for early detection | Classification pipeline, metrics |
