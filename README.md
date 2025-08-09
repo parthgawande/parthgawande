@@ -126,16 +126,16 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 | [**HealthLens: Monitoring Healthcare Performance**](https://github.com/parthgawande/HealthLens-Monitoring-healthcare-performance-and-trends) | Python EDA + Power BI for clinical & ops KPIs | Multi‑table joins, anomaly flags, KPI tracking |
 | [**CareAllocate: Healthcare Resource Allocation**](https://github.com/parthgawande/CareAllocate-Healthcare-Resource-Allocation) | Linear programming to optimize beds/staff/vents | Python, PuLP, Streamlit; scenario planning |
 | [**ForecastPro: Scalable Sales Forecasting (MLOps)**](https://github.com/parthgawande/ForecastPro-Scalable-Sales-Forecasting-via-MLOps-) | Automated forecasting with CI/CD + MLflow | Prophet/Sklearn, DVC, FastAPI, Docker |
-| [**AcuMedica: Medical Performance Dashboard**](https://github.com/parthgawande/AcuMedica) | Power BI dashboard for outcomes & trends | DAX, Power Query, drill‑throughs |
-| [**InfoSnip: Tailored News Summarization**](https://github.com/parthgawande/InfoSnip) | NLP summarizer for long‑form news | Transformer models, Flask service |
+| [**AcuMedica: Medical Performance Dashboard**](https://github.com/parthgawande/AcuMedica-Medical-Performance-Dashboard) | Power BI dashboard for outcomes & trends | DAX, Power Query, drill‑throughs |
+| [**InfoSnip: Tailored News Summarization**](https://github.com/parthgawande/InfoSnip-Tailored-News-Summarization) | NLP summarizer for long‑form news | Transformer models, Flask service |
 | [**Dyslexia Detection (ML)**](https://github.com/parthgawande/Dyslexia-Detection) | Behavioral feature ML for early detection | Classification pipeline, metrics |
 | [**GeoEnvision: Satellite Image Enhancement**](https://github.com/parthgawande/GeoEnvision) | DL for satellite classification/segmentation | CNN/UNet, object detection |
-| [**Black Gold Horizon**](https://github.com/parthgawande/Black-Gold-Horizon) | U.S. crude production forecasting | Time‑series in R; policy insights |
-| [**YouTrendify**](https://github.com/parthgawande/YouTrendify) | Predictive insights for YouTube KPIs | Regression + feature engineering |
-| [**StyleSync: AI Outfit Assistant**](https://github.com/parthgawande/StyleSync) | Fashion compatibility & product recs | ResNet‑50 + MCN, SerpAPI, feedback loop |
-| [**Airbnb NYC Analysis**](https://github.com/parthgawande/Airbnb-NYC-Analysis) | Interactive rental market analytics | Pricing, availability, borough trends |
-| [**F1Track Analytics**](https://github.com/parthgawande/F1Track) | Real‑time racing analytics on Databricks | Delta Lake, telemetry insights |
-| [**Churnlytics**](https://github.com/parthgawande/Churnlytics) | Telco churn risk modeling | Classification, clustering, SHAP |
+| [**Black Gold Horizon**](https://github.com/parthgawande/Black-Gold-Horizon-Projecting-America-s-Oil-Future) | U.S. crude production forecasting | Time‑series in R; policy insights |
+| [**YouTrendify**](https://github.com/parthgawande/YouTrendify-Youtube-Insights-Engine) | Predictive insights for YouTube KPIs | Regression + feature engineering |
+| [**StyleSync: AI Outfit Assistant**]([https://github.com/parthgawande/StyleSync](https://github.com/parthgawande/StyleSync)) | Fashion compatibility & product recs | ResNet‑50 + MCN, SerpAPI, feedback loop |
+| [**Airbnb NYC Analysis**](https://github.com/parthgawande/New-York-City-Airbnb-Analysis) | Interactive rental market analytics | Pricing, availability, borough trends |
+| [**F1Track Analytics**](https://github.com/parthgawande/F1Track-Real-Time-Performance-Analytics-Using-Databricks) | Real‑time racing analytics on Databricks | Delta Lake, telemetry insights |
+| [**Churnlytics**](https://github.com/parthgawande/Telco-Customer-Churn-Analysis) | Telco churn risk modeling | Classification, clustering, SHAP |
 
 > _More projects on my [Portfolio](https://parthgawande.github.io/Portfolio)_
 
