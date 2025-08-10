@@ -137,7 +137,7 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 | [**F1Track Analytics**](https://github.com/parthgawande/F1Track-Real-Time-Performance-Analytics-Using-Databricks) | Real‑time racing analytics on Databricks | Delta Lake, telemetry insights |
 | [**Churnlytics**](https://github.com/parthgawande/Telco-Customer-Churn-Analysis) | Telco churn risk modeling | Classification, clustering, SHAP |
 
-> _More projects on my [Portfolio](https://parthgawande.github.io/Portfolio)_
+> _More projects[Here](https://github.com/parthgawande?tab=repositories)
 
 ---
 
