@@ -24,87 +24,204 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 
 ### Programming & Analytics
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/><br><sub>Python</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50"/><br><sub>SQL</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/><br><sub>R</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/><br><sub>Java</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/><br><sub>C++</sub></div>
-    <div><img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" height="50"/><br><sub>PySpark</sub></div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="56"/><br><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="56"/><br><sub><b>SQL</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="56"/><br><sub><b>R</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="56"/><br><sub><b>Java</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="56"/><br><sub><b>C++</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" height="56"/><br><sub><b>PySpark</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### Business Intelligence & Visualization
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div><img src="https://img.icons8.com/color/48/tableau-software.png" height="50"/><br><sub>Tableau</sub></div>
-    <div><img src="https://img.icons8.com/color/48/power-bi.png" height="50"/><br><sub>Power BI</sub></div>
-    <div><img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png" height="50"/><br><sub>Looker Studio</sub></div>
-    <div><img src="https://miro.medium.com/v2/resize:fit:1400/1*KL4vQyb9MEI9y2eyb4WEGQ.png" height="50"/><br><sub>Amazon QuickSight</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="50"/><br><sub>D3.js</sub></div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.icons8.com/color/48/tableau-software.png" height="56"/><br><sub><b>Tableau</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.icons8.com/color/48/power-bi.png" height="56"/><br><sub><b>Power BI</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png" height="56"/><br><sub><b>Looker Studio</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*KL4vQyb9MEI9y2eyb4WEGQ.png" height="56"/><br><sub><b>Amazon QuickSight</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="56"/><br><sub><b>D3.js</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### Reporting & Data Tools
 <p align="center">
-  <div style="display: flex; gap: 20px; justify-content: center;">
-    <div><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="50"/><br><sub>Excel</sub></div>
-    <div><img src="https://img.icons8.com/color/48/google-sheets.png" height="50"/><br><sub>Google Sheets</sub></div>
-    <div><img src="https://avatars.githubusercontent.com/u/36382177?s=200&v=4" height="50"/><br><sub>dbt</sub></div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="56"/><br><sub><b>Excel</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.icons8.com/color/48/google-sheets.png" height="56"/><br><sub><b>Google Sheets</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://avatars.githubusercontent.com/u/36382177?s=200&v=4" height="56"/><br><sub><b>dbt</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### Data Engineering & Automation
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="50"/><br><sub>Apache Spark</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50"/><br><sub>Kafka</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="50"/><br><sub>Kubernetes</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/><br><sub>Docker</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/><br><sub>PostgreSQL</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/><br><sub>MongoDB</sub></div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="56"/><br><sub><b>Apache Spark</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="56"/><br><sub><b>Kafka</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="56"/><br><sub><b>Kubernetes</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="56"/><br><sub><b>Docker</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="56"/><br><sub><b>PostgreSQL</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="56"/><br><sub><b>MongoDB</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### Cloud & Platforms
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div><img src="https://www.paubox.com/hubfs/What%20is%20AWS.jpg" height="50"/><br><sub>AWS</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50"/><br><sub>Google Cloud</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/><br><sub>Azure</sub></div>
-    <div><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" height="50"/><br><sub>Snowflake</sub></div>
-    <div><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="50"/><br><sub>Databricks</sub></div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://www.paubox.com/hubfs/What%20is%20AWS.jpg" height="56"/><br><sub><b>AWS</b></sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="56"/><br><sub><b>Google Cloud</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="56"/><br><sub><b>Azure</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" height="56"/><br><sub><b>Snowflake</b></sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="56"/><br><sub><b>Databricks</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### AWS Services
 <p align="center">
-  Amazon EC2 • Amazon S3 • AWS Lambda • Amazon RDS • Amazon Redshift • AWS Glue • CloudWatch • Amazon SNS
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon-ec2&logoColor=white" height="28"/><br><sub><b>Amazon EC2</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white" height="28"/><br><sub><b>Amazon S3</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white" height="28"/><br><sub><b>AWS Lambda</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white" height="28"/><br><sub><b>Amazon RDS</b></sub>
+      </td>
+      <td align="center" width="170">
+        <img src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white" height="28"/><br><sub><b>Amazon Redshift</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white" height="28"/><br><sub><b>AWS Glue</b></sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white" height="28"/><br><sub><b>Amazon CloudWatch</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://img.shields.io/badge/SNS-FF9900?logo=amazonaws&logoColor=white" height="28"/><br><sub><b>Amazon SNS</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### Machine Learning & Data Science
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="50"/><br><sub>Jupyter</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/><br><sub>TensorFlow</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/><br><sub>PyTorch</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/><br><sub>scikit-learn</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50"/><br><sub>Keras</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50"/><br><sub>Kaggle</sub></div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="56"/><br><sub><b>Jupyter</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="56"/><br><sub><b>TensorFlow</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="56"/><br><sub><b>PyTorch</b></sub>
+      </td>
+      <td align="center" width="160">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="56"/><br><sub><b>scikit‑learn</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="56"/><br><sub><b>Keras</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="56"/><br><sub><b>Kaggle</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### Web, Version Control & CI/CD
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/><br><sub>HTML5</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/><br><sub>CSS3</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/><br><sub>JavaScript</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/><br><sub>React</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/><br><sub>Node.js</sub></div>
-    <div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/><br><sub>Git</sub></div>
-    <div><img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white" height="22"/><br><sub>CI/CD</sub></div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56"/><br><sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56"/><br><sub><b>CSS3</b></sub>
+      </td>
+      <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56"/><br><sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56"/><br><sub><b>React</b></sub>
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="56"/><br><sub><b>Node.js</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="56"/><br><sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="150">
+        <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white" height="28"/><br><sub><b>CI/CD</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
