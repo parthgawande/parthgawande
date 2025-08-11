@@ -151,7 +151,7 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/300px-Amazon_Lambda_architecture_logo.svg.png" height="28"/><br><sub><b>AWS Lambda</b></sub>
       </td>
       <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white" height="28"/><br><sub><b>Amazon RDS</b></sub>
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*KqNnfYtaVshGXbuGUCTOQw.png" height="28"/><br><sub><b>Amazon RDS</b></sub>
       </td>
       <td align="center" width="170">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon-Redshift-Logo.svg/150px-Amazon-Redshift-Logo.svg.png" height="28"/><br><sub><b>Amazon Redshift</b></sub>
@@ -160,7 +160,7 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/AWS_Glue.jpg?20220721120443e" height="28"/><br><sub><b>AWS Glue</b></sub>
       </td>
       <td align="center" width="160">
-        <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white" height="28"/><br><sub><b>Amazon CloudWatch</b></sub>
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*_E9WWU9orPbAK9Mz.png" height="28"/><br><sub><b>Amazon CloudWatch</b></sub>
       </td>
       <td align="center" width="140">
         <img src="https://www.honeycomb.io/wp-content/uploads/2023/03/integration_aws-sns_featured_image.svg" height="28"/><br><sub><b>Amazon SNS</b></sub>
