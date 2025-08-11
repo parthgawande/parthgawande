@@ -23,67 +23,80 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 ## 🧠 Skills
 
 ### Programming & Analytics
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**
-- ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg) **SQL**
-- ![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg) **R**
-- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) **Java**
-- ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) **C++**
-- ![PySpark](https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg) **PySpark**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" title="SQL"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="36" title="R"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" title="Java"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" title="C++"/> 
+<img src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg" height="36" title="PySpark"/>
+</p>
 
 ### Business Intelligence & Visualization
-- ![Tableau](https://img.icons8.com/color/48/tableau-software.png) **Tableau**
-- ![Power BI](https://img.icons8.com/color/48/power-bi.png) **Power BI**
-- ![Looker Studio](https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png) **Looker Studio**
-- ![Amazon QuickSight](https://miro.medium.com/v2/resize:fit:1400/1*KL4vQyb9MEI9y2eyb4WEGQ.png) **Amazon QuickSight**
-- ![D3.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg) **D3.js**
+<p>
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="36" title="Tableau"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" height="36" title="Power BI"/>
+<img src="https://www.marceldigital.com/media/0yncqj5k/looker-studio-logo-2.png" height="36" title="Looker Studio"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*KL4vQyb9MEI9y2eyb4WEGQ.png" height="36" title="Amazon QuickSight"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="36" title="D3.js"/>
+</p>
 
 ### Reporting & Data Tools
-- ![Excel](https://img.icons8.com/color/48/microsoft-excel-2019--v1.png) **Microsoft Excel**
-- ![Google Sheets](https://img.icons8.com/color/48/google-sheets.png) **Google Sheets**
-- ![dbt](https://avatars.githubusercontent.com/u/36382177?s=200&v=4) **dbt (Data Build Tool)**
+<p>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="36" title="Excel"/>
+<img src="https://img.icons8.com/color/48/google-sheets.png" height="36" title="Google Sheets"/>
+<img src="https://avatars.githubusercontent.com/u/36382177?s=200&v=4" height="36" title="dbt"/>
+</p>
 
 ### Data Engineering & Automation
-- ![Apache Spark](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg) **Apache Spark**
-- ![Kafka](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg) **Apache Kafka**
-- ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg) **Kubernetes**
-- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) **Docker**
-- ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) **PostgreSQL**
-- ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) **MongoDB**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="36" title="Apache Spark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="36" title="Kafka"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="36" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" title="MongoDB"/>
+</p>
 
 ### Cloud & Platforms
-- ![AWS](https://www.paubox.com/hubfs/What%20is%20AWS.jpg) **Amazon Web Services (AWS)**
-- ![Google Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg) **Google Cloud Platform (GCP)**
-- ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg) **Microsoft Azure**
-- ![Snowflake](https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png) **Snowflake**
-- ![Databricks](https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png) **Databricks**
+<p>
+<img src="https://www.paubox.com/hubfs/What%20is%20AWS.jpg" height="36" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" title="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" title="Azure"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" height="36" title="Snowflake"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" height="36" title="Databricks"/>
+</p>
 
 ### AWS Services
-- ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon-ec2&logoColor=white) **Amazon EC2**
-- ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white) **Amazon S3**
-- ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white) **AWS Lambda**
-- ![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white) **Amazon RDS**
-- ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white) **Amazon Redshift**
-- ![Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white) **AWS Glue**
-- ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white) **Amazon CloudWatch**
-- ![SNS](https://img.shields.io/badge/SNS-FF9900?logo=amazonaws&logoColor=white) **Amazon SNS**
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?logo=amazonrds&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?logo=amazonredshift&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?logo=amazonaws&logoColor=white)
 
 ### Machine Learning & Data Science
-- ![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg) **Jupyter Notebook**
-- ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) **TensorFlow**
-- ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) **PyTorch**
-- ![scikit-learn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg) **scikit-learn**
-- ![Keras](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg) **Keras**
-- ![Kaggle](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg) **Kaggle**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="36" title="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="36" title="scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="36" title="Keras"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="36" title="Kaggle"/>
+</p>
 
 ### Web, Version Control & CI/CD
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML5**
-- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3**
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React**
-- ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js**
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**
-- ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white) **CI/CD (GitHub Actions)**
-
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white" height="22" title="CI/CD"/>
+</p>
 
 ---
 
