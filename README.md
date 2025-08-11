@@ -142,7 +142,7 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon-ec2&logoColor=white" height="28"/><br><sub><b>Amazon EC2</b></sub>
+        <img src="" height="28"/><br><sub><b>Amazon EC2</b></sub>
       </td>
       <td align="center" width="150">
         <img src="https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=white" height="28"/><br><sub><b>Amazon S3</b></sub>
