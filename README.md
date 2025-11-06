@@ -227,18 +227,21 @@ I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Ai
 ---
 
 ## 💼 Experience
+**Data Engineer — Saayam For All** *(Sept 2025 – Present)*  
+- Analyzed 15,000+ donor records using SQL and Power BI, enhancing stakeholder insights and improving program engagement by 30%.
+- Automated reporting workflows with Python and SQL, increasing accuracy and delivery speed by 25%, supporting resource optimization across five programs.
 
 **Graduate Teaching Assistant — Rochester Institute of Technology** *(Jan 2024 – May 2025)*  
 - Delivered **1,000+ instructional hours** to 200+ students in DB systems & SQL; average proficiency up **20%**  
 - Redesigned **15** SQL assignments (real datasets), boosting retention **25%** and lab participation **30%**  
 - Automated grading, cutting turnaround **40%**; 60+ 1:1 sessions improved individual scores **15%**
 
-**Data Analyst — StandardWings Technologies Pvt. Ltd.** *(Jan 2022 – Jan 2023)*  
+**Data Analyst — StandardWings Technologies Pvt. Ltd.** *(July 2021 – Jan 2023)*  
 - Analyzed **10,000+ weekly GPS logs** for 120‑vehicle fleet, saving **$600K/year** via route optimization  
 - Built **14** Tableau/QuickSight dashboards; decision speed up **25%**, redundant hours down **15%**  
 - Delay alerts via **Lambda/CloudWatch/SNS** raised SLA from **82% → 94%**; validation reduced errors **25%**
 
-**Data Analyst Intern — StandardWings Technologies Pvt. Ltd.** *(May 2021 – Dec 2021)*  
+**Data Analyst Intern — StandardWings Technologies Pvt. Ltd.** *(Jan 2021 – June 2021)*  
 - Centralized **10** municipal datasets in Snowflake; SLA reporting time down **70%**  
 - GIS + Spectrum analysis improved emergency response by **4.8 minutes**  
 - Automated **20+** Power BI reports; accuracy up **30%**, eliminated data lags
