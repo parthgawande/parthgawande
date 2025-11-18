@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthgawande)
 [![GitHub](https://img.shields.io/badge/GitHub-111?logo=github&logoColor=white)](https://github.com/parthgawande)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=safari&logoColor=white)](https://parthgawande.github.io/Portfolio)
-[![Resume](https://img.shields.io/badge/Resume-PDF-E53935?logo=adobeacrobatreader&logoColor=white)](https://github.com/parthgawande/parthgawande/raw/main/Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-E53935?logo=adobeacrobatreader&logoColor=white)](https://github.com/parthgawande/parthgawande/blob/main/ParthGawande_Resume_DataAnalyst.pdf)
 [![Location](https://img.shields.io/badge/San%20Francisco-CA-ff6900?logo=googlemaps&logoColor=white)](#)
 
 ---
