@@ -11,9 +11,9 @@
 ## 📌 About Me
 
 I’m a data professional with an M.S. in **Information Technology & Analytics (GPA 3.9)** from RIT, building end‑to‑end, cloud‑native data solutions across analytics and engineering. I’ve delivered measurable impact by:
-- Cutting **$600K** in annual ops cost via route optimization  
+- Cutting **$60K** in annual ops cost via route optimization  
 - Accelerating **SLA reporting by 60%** with streaming pipelines  
-- Reducing **cloud compute by $40K/month** with query/storage tuning  
+- Reducing **cloud compute by $14K/month** with query/storage tuning  
 - Improving **anomaly resolution by 22–66%** through proactive monitoring  
 
 I work across **Python/SQL/R**, **Snowflake/Redshift/BigQuery/Databricks**, **Airflow/AWS Glue/Terraform/CI‑CD**, and BI with **Tableau/Power BI/QuickSight/Looker Studio**—turning raw data into reliable, decision‑grade insights.
