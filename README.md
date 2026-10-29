@@ -225,21 +225,21 @@ I work across **Python, SQL, and PySpark**; **Palantir Foundry, AWS, Snowflake, 
 
 ## 💼 Experience
 
-**Data Engineer — Pacific Gas & Electric** *(Mar 2026 – Oct 2026 · San Jose, CA)*
+**Data Engineer - Pacific Gas & Electric** *(Mar 2026 – Oct 2026 · San Jose, CA)*
 - Built an inspection data pipeline in **Palantir Foundry** processing **50M+ records a year** for **8 teams**, delivering **$3M+** in cost savings at **99%+** data consistency
 - Automated scope and inspection cycle design with Foundry data models and **Power BI**, speeding Asset Strategy planning by **3 weeks** and cutting manual scope work by **80%**
 - Built an automated inspector assignment system with Foundry and Python routing logic, freeing up **14 hours/week** of manual mapping for **40+** field inspectors
 - Built LLM-powered **Palantir AIP** workflows that let inspection and compliance teams query their data in plain language
 - Cut reporting turnaround by **75%** across **5 verticals** (SIC, SIQ, Training, Finance, Asset Strategy) with Lean process mapping and self-service dashboards
 
-**Data Engineer — Saayam For All** *(Sept 2025 – Mar 2026 · San Jose, CA)*
+**Data Engineer - Saayam For All** *(Sept 2025 – Mar 2026 · San Jose, CA)*
 - Reduced matching latency by **25%** and doubled daily match capacity across **200K+** volunteer profiles and **40K+** opportunities by rewriting the matching pipeline's SQL with window functions
 - Raised matching accuracy by **30%** by tracing a **45%** volunteer drop-off to incomplete opportunity descriptions through cohort analysis, shared through **Tableau** dashboards
 
-**Graduate Teaching Assistant — Rochester Institute of Technology** *(Jan 2024 – May 2025)*
+**Graduate Teaching Assistant - Rochester Institute of Technology** *(Jan 2024 – May 2025)*
 - Supported 200+ students in MATH 101 through labs, office hours, and grading
 
-**Data Engineer — StandardWings Technologies Pvt. Ltd.** *(Jan 2021 – Dec 2022 · Nashik, India)*
+**Data Engineer - StandardWings Technologies Pvt. Ltd.** *(Jan 2021 – Dec 2022 · Nashik, India)*
 - Led a **zero-downtime** migration from SAP and legacy systems to **AWS** (S3, Lambda, RDS), consolidating GPS and telemetry from **120+** waste collection trucks at **99.2%** data consistency
 - Built real-time GPS and sensor processing in Python on AWS, lowering missed collections by **18%** and improving route efficiency by **15%**
 - Deployed Python anomaly detection on fleet sensor data, saving **$400K a year** and cutting incident discovery time by **72%**
@@ -282,20 +282,20 @@ I work across **Python, SQL, and PySpark**; **Palantir Foundry, AWS, Snowflake, 
 
 ## 🎓 Education
 
-**M.S., Information Technology & Analytics — Rochester Institute of Technology** *(Jan 2023 – May 2025, GPA 3.9)*
+**M.S., Information Technology & Analytics - Rochester Institute of Technology** *(Jan 2023 – May 2025, GPA 3.9)*
 Coursework: Data Warehousing, Visual Analytics, NoSQL, IR & Text Mining, Time Series, ML-based Knowledge Discovery
 
-**B.Tech, Computer Science & Engineering — MIT World Peace University** *(Jul 2018 – Jul 2022, GPA 9.27/10)*
+**B.Tech, Computer Science & Engineering - MIT World Peace University** *(Jul 2018 – Jul 2022, GPA 9.27/10)*
 Coursework: DSA, OOP, DBMS, OS, Networks, ML/AI, Web, Cloud, Cybersecurity
 
 ---
 
 ## 📚 Publications & Research
 
-- **IEEE CONIT 2022** — _Video-Based Human Activity Detection_ — **98.88%** accuracy (3D-CNN, KTH dataset)
-- _Survey on Malware Detection_ — AI/ML and DL approaches for modern malware
-- _Transfer + Incremental Learning for Anomalous Activity Detection_ — KTH and UCF101
-- _Climate Change: Predictive Analysis_ — **AJEC (2022)**
+- **IEEE CONIT 2022** - _Video-Based Human Activity Detection_ - **98.88%** accuracy (3D-CNN, KTH dataset)
+- _Survey on Malware Detection_ - AI/ML and DL approaches for modern malware
+- _Transfer + Incremental Learning for Anomalous Activity Detection_ - KTH and UCF101
+- _Climate Change: Predictive Analysis_ - **AJEC (2022)**
 
 ---
 
